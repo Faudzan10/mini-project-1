@@ -1,4 +1,6 @@
 # mini-project-1
+(MUHAMMAD IRDHAN NUR FAUDZAN)
+(2409116077)
 
 Disini saya ingin menjelaskan hasil dari program saya:
 
