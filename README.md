@@ -2,10 +2,16 @@
 
 Disini saya ingin menjelaskan hasil dari program saya:
 
-    Nama_benar = "Faudzan"
-    NIM_benar  = "077"
+   print("_______________________________")
+print("_____DASAR DASAR PEMOGRAMAN____")
+print("_______Mini Project Satu_______")
+print("__Muhammad Irdhan Nur Faudzan__")
+print("__________2409116077___________")
+print("_______________________________")
+
+dibaris 1-6 saya membuat judul program,termasuk nama dan nomor identitas mahasiswa
+-------------------------------------------------------------------------------------------
 
 
-![udah hitung gji](https://github.com/user-attachments/assets/041adb64-251d-4089-bff5-5cf59e3ff96d)
 
 
