@@ -68,9 +68,13 @@ sekian dari laporan program saya
 
 ---------------------------------------------Dokumentasi Out Put Program----------------------------------------------- 
 ![Masukkan login](https://github.com/user-attachments/assets/8c8f7ba1-3a76-4911-980c-a68e05dacf8f)
-![udah hitung gji](https://github.com/user-attachments/assets/24478ea5-3034-4a9a-97e2-1d00a10074a6)
-![udahh](https://github.com/user-attachments/assets/88aa444e-8d80-442c-8fce-b314e7c1e461)
+jadi pada gambar ini kita masukkan NAMA kita,Nim,Jika benar maka lanjut untung hitung jam kerja
 
+![udah hitung gji](https://github.com/user-attachments/assets/24478ea5-3034-4a9a-97e2-1d00a10074a6)
+Lalu pada gambar ini kita masukkan Hitungan Jam Kerja,dan Gaji perjam ,Jika lebih dari 160 jam ,maka dapat gaji bonus
+
+![udahh](https://github.com/user-attachments/assets/88aa444e-8d80-442c-8fce-b314e7c1e461)
+Lalu pada gambar ini jika kita memasukkan jam kerja kurang dari 160 jam maka kita tidak mendapatkan bonus gaji,dan bisa dilihat jika ingin lanjut untuk menghitung gaji perhari kita ketik (boleh) jika tidak ingin melanjutkan maka ketik (tidak)
 --------------------------------------------------------------------------DOKUMENTASI FLOWCHART-------------------------------------------------------------------------------
 ![Flowchart Mini Project 1 drawio](https://github.com/user-attachments/assets/fd93ff49-12d8-406f-b98c-93e9e82f89ca)
 
